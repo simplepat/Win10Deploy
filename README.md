@@ -1,15 +1,13 @@
 # Win10Deploy
 
-This script automates all Windows 10 system setup steps for a 'standard' developper system (mine, at least :))
-It consists in setting up a full-privacy mode, tweaking the UI, configuring scheduled tasks, startup and services, installing basic dev software & environment, and do a bit of cleaning
-The script was created for personal needs (and tested on a Win10 v1809 virtual machine), however it can easily be tweaked by commenting/decommenting stuff
-There is no "rollback" for each of the tweaks here, so make sure you know what you are doing BEFORE launching, or just comment if you don't !
+*This script automates all Windows 10 system setup steps for a 'standard' developper system (mine, at least :))
+*It consists in setting up a full-privacy mode, tweaking the UI, configuring scheduled tasks, startup and services, installing basic dev software & environment, and do a bit of cleaning
+*The script was created for personal needs (and tested on a Win10 v1809 virtual machine), however it can easily be tweaked by commenting/decommenting stuff
+*There is no "rollback" for each of the tweaks here, so make sure you know what you are doing BEFORE launching, or just comment if you don't !
 
 Note: the script's a first shot, more tweaks and stabilizing/refactoring to come ! 
 
 ## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
