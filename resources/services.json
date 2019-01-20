@@ -1,0 +1,1684 @@
+[
+  {
+    "displayName": "ActiveX Installer (AxInstSV)",
+    "name": "AxInstSV",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "AllJoyn Router Service",
+    "name": "AJRouter",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "App Readiness",
+    "name": "AppReadiness",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Application Identity",
+    "name": "AppIDSvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Application Information",
+    "name": "Appinfo",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Application Layer Gateway Service",
+    "name": "ALG",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Old functionality no longer needed."
+  },
+  {
+    "displayName": "Application Management",
+    "name": "AppMgmt",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Required for Group Policy software management"
+  },
+  {
+    "displayName": "AppX Deployment Service (AppXSVC)",
+    "name": "AppXSVC",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Windows Store integration. Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "AssignedAccessManager Service",
+    "name": "AssignedAccessManagerSvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Auto Time Zone Updater",
+    "name": "tzautoupdate",
+    "defaultStart": 4,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "AVCTP service",
+    "name": "BthAvctpSvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Do not disable if you are using Bluetooth Audio Device or Wireless Headphones."
+  },
+  {
+    "displayName": "Background Intelligent Transfer Service",
+    "name": "BITS",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Manual or Automatic (Delayed Start, Running) depending on other optional services installed"
+  },
+  {
+    "displayName": "Background Tasks Infrastructure Service",
+    "name": "BrokerInfrastructure",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "Base Filtering Engine",
+    "name": "BFE",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "Do not disable due to Windows Firewall integration."
+  },
+  {
+    "displayName": "BitLocker Drive Encryption Service",
+    "name": "BDESVC",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Do not disable if using storage encryption."
+  },
+  {
+    "displayName": "Block Level Backup Engine Service",
+    "name": "wbengine",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Used by Windows Backup"
+  },
+  {
+    "displayName": "Bluetooth Audio Gateway Service",
+    "name": "BTAGService",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "New. Wireless headsets."
+  },
+  {
+    "displayName": "Bluetooth Support Service",
+    "name": "bthserv",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Disable if no requirement for Bluetooth devices is desired."
+  },  
+  {
+    "displayName": "BranchCache",
+    "name": "PeerDistSvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Used by Windows Update for download sharing."
+  },
+  {
+    "displayName": "Capability Access Manager Service",
+    "name": "camsvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "CaptureService",
+    "name": "CaptureService",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "New. OneCore Capture Service."
+  },
+  {
+    "displayName": "Certificate Propagation",
+    "name": "CertPropSvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Used with Smart Card login. No harm in keeping the default Manual mode."
+  },
+  {
+    "displayName": "Client License Service (ClipSVC)",
+    "name": "ClipSVC",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "CNG Key Isolation",
+    "name": "KeyIso",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Do not disable."
+  },
+  {
+    "displayName": "COM+ Event System",
+    "name": "EventSystem",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "Do not disable."
+  },
+  {
+    "displayName": "COM+ System Application",
+    "name": "COMSysApp",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Do not disable."
+  },
+  {
+    "displayName": "Computer Browser",
+    "name": "Browser",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Network discovery of systems on local network."
+  },
+  {
+    "displayName": "Connected Device Platform Service",
+    "name": "CDPSvc",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": ""
+  },
+  {
+    "displayName": "Connected Devices Platform User Service",
+    "name": "CDPUserSvc",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": ""
+  },
+  {
+    "displayName": "Connected User Experiences and Telemetry",
+    "name": "DiagTrack",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Telemetry: feedback and diagnostics"
+  },
+  {
+    "displayName": "Contact Data",
+    "name": "PimIndexMaintenanceSvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "CoreMessaging",
+    "name": "CoreMessagingRegistrar",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "Credential Manager",
+    "name": "VaultSvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Do not disable."
+  },
+  {
+    "displayName": "Cryptographic Services",
+    "name": "CryptSvc",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "Do not disable."
+  },
+  {
+    "displayName": "Data Sharing Service",
+    "name": "DsSvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Data Usage",
+    "name": "DusmSvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "DCOM Server Process Launcher",
+    "name": "DcomLaunch",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "Delivery Optimization",
+    "name": "DoSvc",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": ""
+  },
+  {
+    "displayName": "Device Association Service",
+    "name": "DeviceAssociationService",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Device Install Service",
+    "name": "DeviceInstall",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Device Management Enrollment Service",
+    "name": "DmEnrollmentSvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Device Setup Manager",
+    "name": "DsmSVC",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "DevicePicker",
+    "name": "DevicePickerUserSvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "New. Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "DevicesFlow",
+    "name": "DevicesFlowUserSvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "DevQuery Background Discovery Broker",
+    "name": "DevQueryBroker",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "DHCP Client",
+    "name": "Dhcp",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "Do not disable."
+  },
+  {
+    "displayName": "Diagnostic Execution Service",
+    "name": "diagsvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Diagnostic Policy Service",
+    "name": "DPS",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Diagnostic Service Host",
+    "name": "WdiServiceHost",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Diagnostic System Host",
+    "name": "WdiSystemHost",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Distributed Link Tracking Client",
+    "name": "TrkWks",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": ""
+  },
+  {
+    "displayName": "Distributed Transaction Coordinator",
+    "name": "MSDTC",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "dmwappushsvc",
+    "name": "dmwappushsvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "DNS Client",
+    "name": "Dnscache",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "Do not disable"
+  },
+  {
+    "displayName": "Downloaded Maps Manager",
+    "name": "MapsBroker",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Disable if you do not use Windows/Bing maps"
+  },
+  {
+    "displayName": "Embedded Mode",
+    "name": "embeddedmode",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Encrypting File System (EFS)",
+    "name": "EFS",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Do not disable."
+  },
+  {
+    "displayName": "Enterprise App Management Service",
+    "name": "EntAppSvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "Extensible Authentication Protocol Service",
+    "name": "EapHost",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Fax",
+    "name": "Fax",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "File History Service",
+    "name": "fhsvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Used by Windows Backup."
+  },
+  {
+    "displayName": "Function Discovery Provider Host",
+    "name": "fdPHost",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Function Discovery Resource Publication",
+    "name": "FDResPub",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "GameDVR and Broadcast User Service",
+    "name": "BcastDVRUserService",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "New. Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "Geolocation Service",
+    "name": "lfsvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "GraphicsPerfSvc",
+    "name": "GraphicsPerfSvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Group Policy Client",
+    "name": "gpsvc",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "Human Interface Device Service",
+    "name": "hidserv",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Manufacture function keys generally on laptops for volume, screen brightness, etc."
+  },
+  {
+    "displayName": "HV Host Service",
+    "name": "HvHost",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Hyper-V Data Exchange Service",
+    "name": "vmickvpexchange",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Hyper-V Guest Service Interface",
+    "name": "vmicguestinterface",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Hyper-V Guest Shutdown Service",
+    "name": "vmicshutdown",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Hyper-V Heartbeat Service",
+    "name": "vmicheartbeat",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Hyper-V Host Compute Service",
+    "name": "vmcompute",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "If installed: (Manual, Trigger Start, Running)"
+  },
+  {
+    "displayName": "Hyper-V PowerShell Direct Service",
+    "name": "vmicvmsession",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Hyper-V Remote Desktop Virtualization Service",
+    "name": "vmicrdv",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Hyper-V Time Synchronization Service",
+    "name": "vmictimesync",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Hyper-V Virtual Machine Management **",
+    "name": "vmms",
+    "defaultStart": 2,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Hyper-V Volume Shadow Copy Requestor",
+    "name": "vmicvss",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "IKE and AuthIP IPsec Keying Modules",
+    "name": "IKEEXT",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Infrared monitor service",
+    "name": "irmon",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "File transfer via infrared devices."
+  },
+  {
+    "displayName": "Internet Connection Sharing (ICS)",
+    "name": "SharedAccess",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Old service no longer needed."
+  },
+  {
+    "displayName": "IP Helper",
+    "name": "iphlpsvc",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "IPv6 translation."
+  },
+  {
+    "displayName": "IP Translation Configuration Service",
+    "name": "IpxlatCfgSvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "IPv6 translation."
+  },
+  {
+    "displayName": "IPsec Policy Agent",
+    "name": "PolicyAgent",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "KtmRm for Distributed Transaction Coordinator",
+    "name": "KtmRm",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Link-Layer Topology Discovery Mapper",
+    "name": "lltdsvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Local Profile Assistant Service",
+    "name": "wlpasvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Local Session Manager",
+    "name": "LSM",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "MessagingService",
+    "name": "MessagingService",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Microsoft (R) Diagnostics Hub Standard Collector Service",
+    "name": "diagnosticshub.standardcollector.service",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Microsoft Account Sign-in Assistant",
+    "name": "wlidsvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Running if using MS account to log in to computer."
+  },
+  {
+    "displayName": "Microsoft App-V Client",
+    "name": "AppVClient",
+    "defaultStart": 4,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Microsoft iSCSI Initiator Service",
+    "name": "MSiSCSI",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Enable only if iSCSI device connectivity is required (rare for home user)."
+  },
+  {
+    "displayName": "Microsoft Passport",
+    "name": "NgcSvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "Microsoft Passport Container",
+    "name": "NgcCtnrSvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "Microsoft Software Shadow Copy Provider",
+    "name": "swprv",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Used by Windows Backup."
+  },
+  {
+    "displayName": "Microsoft Storage Spaces SMP",
+    "name": "smphost",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Probably One Drive functionality."
+  },
+  {
+    "displayName": "Microsoft Store Install Service",
+    "name": "InstallService",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Microsoft Windows SMS Router Service",
+    "name": "SmsRouter",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Natural Authentication",
+    "name": "NaturalAuthentication",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Silly bio-metrics or face recognition login."
+  },
+  {
+    "displayName": "Netlogon",
+    "name": "Netlogon",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Used only with a domain controller environment."
+  },
+  {
+    "displayName": "Network Connected Devices Auto-Setup",
+    "name": "NcdAutoSetup",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Network Connection Broker",
+    "name": "NcbService",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Network Connections",
+    "name": "Netman",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Network Connectivity Assistant",
+    "name": "NcaSVC",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Network List Service",
+    "name": "netprofm",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Network Location Awareness",
+    "name": "NlaSvc",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": ""
+  },
+  {
+    "displayName": "Network Setup Service",
+    "name": "NetSetupSvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Network Store Interface Service",
+    "name": "nsi",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": ""
+  },
+  {
+    "displayName": "Offline Files",
+    "name": "CscService",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "OpenSSH Authentication Agent",
+    "name": "ssh-agent",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "New."
+  },
+  {
+    "displayName": "Optimize Drives",
+    "name": "defragsvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Parental Controls",
+    "name": "WpcMonSvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "New."
+  },
+  {
+    "displayName": "Payments and NFC/SE Manager",
+    "name": "SEMgrSvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Near Field Communication is a mobile phone technology. Not needed on desktops and tablets."
+  },
+  {
+    "displayName": "Peer Name Resolution Protocol",
+    "name": "PNRPsvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Peer Networking Grouping",
+    "name": "p2psvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Peer Networking Identity Manager",
+    "name": "p2pimsvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Performance Counter DLL Host",
+    "name": "PerfHost",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Performance Logs & Alerts",
+    "name": "pla",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Phone Service",
+    "name": "PhoneSvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Windows Phone Service."
+  },
+  {
+    "displayName": "Plug and Play",
+    "name": "PlugPlay",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Do not disable."
+  },
+  {
+    "displayName": "PNRP Machine Name Publication Service",
+    "name": "PNRPAutoReg",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Portable Device Enumerator Service",
+    "name": "WPDBusEnum",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Power",
+    "name": "Power",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": ""
+  },
+  {
+    "displayName": "Print Spooler",
+    "name": "Spooler",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "Do not disable."
+  },
+  {
+    "displayName": "Printer Extensions and Notifications",
+    "name": "PrintNotify",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "PrintWorkflow",
+    "name": "PrintWorkflowUserSvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "Problem Reports and Solutions Control Panel Support",
+    "name": "wercplsupport",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Program Compatibility Assistant Service",
+    "name": "PcaSvc",
+    "defaultStart": 2,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Quality Windows Audio Video Experience",
+    "name": "QWAVE",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Radio Management Service",
+    "name": "RmSvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Keep Manual for Mobile devices, Disabled stops all wireless communication, including Bluetooth and WiFi."
+  },
+  {
+    "displayName": "Remote Access Auto Connection Manager",
+    "name": "RasAuto",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Remote Access Connection Manager",
+    "name": "RasMan",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Remote Desktop Configuration",
+    "name": "SessionEnv",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Remote Desktop Services",
+    "name": "TermService",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Remote Desktop Services UserMode Port Redirector",
+    "name": "UmRdpService",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Remote Procedure Call (RPC)",
+    "name": "RpcSs",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "Remote Procedure Call (RPC) Locator",
+    "name": "RpcLocator",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "No function in Windows 10."
+  },
+  {
+    "displayName": "Remote Registry",
+    "name": "RemoteRegistry",
+    "defaultStart": 4,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Retail Demo Service",
+    "name": "RetailDemo",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Not disabled by default? Really?"
+  },
+  {
+    "displayName": "Routing and Remote Access",
+    "name": "RemoteAccess",
+    "defaultStart": 4,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "RPC Endpoint Mapper",
+    "name": "RpcEptMapper",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "Secondary Logon",
+    "name": "seclogon",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Secure Socket Tunneling Protocol Service",
+    "name": "SstpSvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "SSTP VPN Capability."
+  },
+  {
+    "displayName": "Security Accounts Manager",
+    "name": "SamSs",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": ""
+  },
+  {
+    "displayName": "Security Center",
+    "name": "wscsvc",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": ""
+  },
+  {
+    "displayName": "Sensor Data Service",
+    "name": "SensorDataService",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Leave as default for laptops and tablets."
+  },
+  {
+    "displayName": "Sensor Monitoring Service",
+    "name": "SensrSvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Leave as default for laptops and tablets."
+  },
+  {
+    "displayName": "Sensor Service",
+    "name": "SensorService",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Leave as default for laptops and tablets."
+  },
+  {
+    "displayName": "Server",
+    "name": "LanmanServer",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": ""
+  },
+  {
+    "displayName": "Shared PC Account Manager",
+    "name": "shpamsvc",
+    "defaultStart": 4,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Shell Hardware Detection",
+    "name": "ShellHWDetection",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "Autoplay"
+  },
+  {
+    "displayName": "Smart Card",
+    "name": "SCardSvr",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Not needed if Smart Card login is not in use."
+  },
+  {
+    "displayName": "Smart Card Device Enumeration Service",
+    "name": "ScDeviceEnum",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Not needed if Smart Card login is not in use."
+  },
+  {
+    "displayName": "Smart Card Removal Policy",
+    "name": "SCPolicySvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Not needed if Smart Card login is not in use."
+  },
+  {
+    "displayName": "SNMP Trap",
+    "name": "SNMPTRAP",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Software Protection",
+    "name": "sppsvc",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "Spatial Data Service",
+    "name": "SharedRealitySvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Virtual Reality data manager."
+  },
+  {
+    "displayName": "Spot Verifier",
+    "name": "svsvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "SSDP Discovery",
+    "name": "SSDPSRV",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "UPnP functionality. Possible security risk."
+  },
+  {
+    "displayName": "State Repository Service",
+    "name": "StateRepository",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "Still Image Acquisition Events",
+    "name": "WiaRpc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Storage Service",
+    "name": "StorSvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Required for Windows Store."
+  },
+  {
+    "displayName": "Storage Tiers Management",
+    "name": "TieringEngineService",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Superfetch",
+    "name": "SysMain",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": ""
+  },
+  {
+    "displayName": "Sync Host",
+    "name": "OneSyncSvc",
+    "defaultStart": 2,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "System Event Notification Service",
+    "name": "SENS",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": ""
+  },
+  {
+    "displayName": "System Events Broker",
+    "name": "SystemEventsBroker",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "System Guard Runtime Monitor Broker",
+    "name": "SgrmBroker",
+    "defaultStart": 2,
+    "Start": 4,
+    "description": "New."
+  },
+  {
+    "displayName": "Task Scheduler",
+    "name": "Schedule",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "TCP/IP NetBIOS Helper",
+    "name": "lmhosts",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Telephony",
+    "name": "TapiSrv",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Themes",
+    "name": "Themes",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": ""
+  },
+  {
+    "displayName": "Time Broker",
+    "name": "TimeBroker",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Touch Keyboard and Handwriting Panel Service",
+    "name": "TabletInputService",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Keep in Manual for laptop touch screens and tablets."
+  },
+  {
+    "displayName": "Update Orchestrator Service for Windows Update",
+    "name": "UsoSvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "UPnP Device Host",
+    "name": "upnphost",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "User Data Access",
+    "name": "UserDataSvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "User Data Storage",
+    "name": "UnistoreSvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "User Experience Virtualization Service",
+    "name": "UevAgentService",
+    "defaultStart": 4,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "User Manager",
+    "name": "UserManager",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": ""
+  },
+  {
+    "displayName": "User Profile Service",
+    "name": "ProfSvc",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": ""
+  },
+  {
+    "displayName": "Virtual Disk",
+    "name": "vds",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Volume Shadow Copy",
+    "name": "VSS",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Windows Backup"
+  },
+  {
+    "displayName": "WalletService",
+    "name": "WalletService",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "WarpJITSvc",
+    "name": "WarpJITSvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Web Account Manager",
+    "name": "TokenBroker",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "WebClient",
+    "name": "WebClient",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Wi-Fi Direct Services Connection Manager Service",
+    "name": "WFDSConSvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Connect to wireless display"
+  },
+  {
+    "displayName": "Windows Audio",
+    "name": "AudioSrv",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "Do not disable."
+  },
+  {
+    "displayName": "Windows Audio Endpoint Builder",
+    "name": "AudioEndpointBuilder",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "Do not disable."
+  },
+  {
+    "displayName": "Windows Backup",
+    "name": "SDRSVC",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Do not disable"
+  },
+  {
+    "displayName": "Windows Biometric Service",
+    "name": "WbioSrvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Windows Camera Frame Server",
+    "name": "FrameServer",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Could be needed to capture webcam frames"
+  },
+  {
+    "displayName": "Windows Connect Now - Config Registrar",
+    "name": "wcncsvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Windows Connection Manager",
+    "name": "Wcmsvc",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": ""
+  },
+  {
+    "displayName": "Windows Defender Advanced Threat Protection Service",
+    "name": "Sense",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Windows Defender Antivirus Network Inspection Service",
+    "name": "WdNisSvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "Windows Defender Antivirus Service",
+    "name": "WinDefend",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "Windows Defender Firewall",
+    "name": "MpsSvc",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "Windows Defender Security Center Service",
+    "name": "SecurityHealthService",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "Windows Encryption Provider Host Service",
+    "name": "WEPHOSTSVC",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Windows Error Reporting Service",
+    "name": "WerSvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Windows Event Collector",
+    "name": "Wecsvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Windows Event Log",
+    "name": "EventLog",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": ""
+  },
+  {
+    "displayName": "Windows Font Cache Service",
+    "name": "FontCache",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": ""
+  },
+  {
+    "displayName": "Windows Image Acquisition (WIA)",
+    "name": "StiSvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Windows Insider Service",
+    "name": "wisvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Disable if not beta testing new versions of Windows via the Insider program."
+  },
+  {
+    "displayName": "Windows Installer",
+    "name": "msiserver",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Cannot be disabled via services.msc"
+  },
+  {
+    "displayName": "Windows License Manager Service",
+    "name": "LicenseManager",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Windows Store."
+  },
+  {
+    "displayName": "Windows Management Instrumentation",
+    "name": "Winmgmt",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": ""
+  },
+  {
+    "displayName": "Windows Media Player Network Sharing Service",
+    "name": "WMPNetworkSvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Windows Mobile Hotspot Service",
+    "name": "icssvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Mobile Network Connection (3G, 4G, LTE, Etc). Disable on devices without those options."
+  },
+  {
+    "displayName": "Windows Modules Installer",
+    "name": "TrustedInstaller",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Windows Perception Service",
+    "name": "spectrum",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "New Virtual Reality Service"
+  },
+  {
+    "displayName": "Windows Presentation Foundation Font Cache 3.0.0.0 **",
+    "name": "FontCache3.0.0.0",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Windows Process Activation Service **",
+    "name": "WAS",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Windows Push Notifications System Service",
+    "name": "WpnService",
+    "defaultStart": 2,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Windows Push Notifications User Service_?????",
+    "name": "WpnUserService",
+    "defaultStart": 2,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Windows PushToInstall Service",
+    "name": "PushToInstall",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "New."
+  },
+  {
+    "displayName": "Windows Remote Management (WS-Management)",
+    "name": "WinRM",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+	"displayName": "Windows Remediation Service",
+    "name": "sedsvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Windows Search",
+    "name": "WSearch",
+    "defaultStart": 2,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Windows Time",
+    "name": "W32Time",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Windows Update",
+    "name": "wuauserv",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "Do not disable."
+  },
+  {
+    "displayName": "Windows Update Medic Service",
+    "name": "WaaSMedicSvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": "New."
+  },
+  {
+    "displayName": "WinHTTP Web Proxy Auto-Discovery Service",
+    "name": "WinHttpAutoProxySvc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Wired AutoConfig",
+    "name": "dot3svc",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "WLAN AutoConfig",
+    "name": "WlanSvc",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "Automatic with Wireless Card Installed."
+  },
+  {
+    "displayName": "WMI Performance Adapter",
+    "name": "wmiApSrv",
+    "defaultStart": 3,
+    "Start": 3,
+    "description": ""
+  },
+  {
+    "displayName": "Work Folders",
+    "name": "workfolderssvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Workstation",
+    "name": "LanmanWorkstation",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": ""
+  },
+  {
+    "displayName": "World Wide Web Publishing Service **",
+    "name": "W3SVC",
+    "defaultStart": 2,
+    "Start": 2,
+    "description": "If installed: (Automatic, Running). Do not install."
+  },
+  {
+    "displayName": "WWAN AutoConfig",
+    "name": "WwanSvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Mobile Network Connection (3G, 4G, LTE, Etc). Disable on devices without those options."
+  },
+  {
+    "displayName": "Xbox Accessory Management Service",
+    "name": "XboxGipSvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": ""
+  },
+  {
+    "displayName": "Xbox Game Monitoring",
+    "name": "xbgm",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Cannot be disabled via services.msc, but will not trigger start if XBOX Live Auth is Disabled."
+  },
+  {
+    "displayName": "Xbox Live Auth Manager",
+    "name": "XblAuthManager",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Leave in Manual if using any XBOX console PC to Console functions."
+  },
+  {
+    "displayName": "Xbox Live Game Save",
+    "name": "XblGameSave",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Leave in Manual if using any XBOX console PC to Console functions."
+  },
+  {
+    "displayName": "Xbox Live Networking Service",
+    "name": "XboxNetApiSvc",
+    "defaultStart": 3,
+    "Start": 4,
+    "description": "Leave in Manual if using any XBOX console PC to Console functions."
+  }
+]
+			
+	

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DefaultAssociations>
+  <Association Identifier=".arw" ProgId="ImageGlass.AssocFile.ARW" ApplicationName="ImageGlass" />
+  <Association Identifier=".bmp" ProgId="ImageGlass.AssocFile.BMP" ApplicationName="ImageGlass" />
+  <Association Identifier=".cr2" ProgId="ImageGlass.AssocFile.CR2" ApplicationName="ImageGlass" />
+  <Association Identifier=".crw" ProgId="ImageGlass.AssocFile.CRW" ApplicationName="ImageGlass" />
+  <Association Identifier=".dib" ProgId="ImageGlass.AssocFile.DIB" ApplicationName="ImageGlass" />
+  <Association Identifier=".dng" ProgId="ImageGlass.AssocFile.DNG" ApplicationName="ImageGlass" />
+  <Association Identifier=".emf" ProgId="ImageGlass.AssocFile.EMF" ApplicationName="ImageGlass" />
+  <Association Identifier=".epub" ProgId="AppXvepbp3z66accmsd0x877zbbxjctkpr6t" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".erf" ProgId="ImageGlass.AssocFile.ERF" ApplicationName="ImageGlass" />
+  <Association Identifier=".gif" ProgId="ImageGlass.AssocFile.GIF" ApplicationName="ImageGlass" />
+  <Association Identifier=".heic" ProgId="ImageGlass.AssocFile.HEIC" ApplicationName="ImageGlass" />
+  <Association Identifier=".htm" ProgId="FirefoxHTML-308046B0AF4A39CB" ApplicationName="Firefox" />
+  <Association Identifier=".html" ProgId="FirefoxHTML-308046B0AF4A39CB" ApplicationName="Firefox" />
+  <Association Identifier=".ico" ProgId="ImageGlass.AssocFile.ICO" ApplicationName="ImageGlass" />
+  <Association Identifier=".jfif" ProgId="ImageGlass.AssocFile.JFIF" ApplicationName="ImageGlass" />
+  <Association Identifier=".jpe" ProgId="ImageGlass.AssocFile.JPE" ApplicationName="ImageGlass" />
+  <Association Identifier=".jpeg" ProgId="ImageGlass.AssocFile.JPEG" ApplicationName="ImageGlass" />
+  <Association Identifier=".jpg" ProgId="ImageGlass.AssocFile.JPG" ApplicationName="ImageGlass" />
+  <Association Identifier=".json" ProgId="Applications\notepad++.exe" ApplicationName="Notepad++ : a free (GNU) source code editor" />
+  <Association Identifier=".kdc" ProgId="ImageGlass.AssocFile.KDC" ApplicationName="ImageGlass" />
+  <Association Identifier=".md" ProgId="Applications\notepad++.exe" ApplicationName="Notepad++ : a free (GNU) source code editor" />
+  <Association Identifier=".MP2" ProgId="WMP11.AssocFile.MP3" ApplicationName="Windows Media Player" />
+  <Association Identifier=".mp3" ProgId="mplayerc64.mp3" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".mp4" ProgId="mplayerc64.mp4" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".mrw" ProgId="ImageGlass.AssocFile.MRW" ApplicationName="ImageGlass" />
+  <Association Identifier=".nef" ProgId="ImageGlass.AssocFile.NEF" ApplicationName="ImageGlass" />
+  <Association Identifier=".nrw" ProgId="ImageGlass.AssocFile.NRW" ApplicationName="ImageGlass" />
+  <Association Identifier=".orf" ProgId="ImageGlass.AssocFile.ORF" ApplicationName="ImageGlass" />
+  <Association Identifier=".oxps" ProgId="Windows.XPSReachViewer" ApplicationName="XPS Viewer" />
+  <Association Identifier=".pcx" ProgId="ImageGlass.AssocFile.PCX" ApplicationName="ImageGlass" />
+  <Association Identifier=".pdf" ProgId="SumatraPDF" ApplicationName="SumatraPDF" />
+  <Association Identifier=".pef" ProgId="ImageGlass.AssocFile.PEF" ApplicationName="ImageGlass" />
+  <Association Identifier=".pgm" ProgId="ImageGlass.AssocFile.PGM" ApplicationName="ImageGlass" />
+  <Association Identifier=".png" ProgId="ImageGlass.AssocFile.PNG" ApplicationName="ImageGlass" />
+  <Association Identifier=".ppm" ProgId="ImageGlass.AssocFile.PPM" ApplicationName="ImageGlass" />
+  <Association Identifier=".psd" ProgId="ImageGlass.AssocFile.PSD" ApplicationName="ImageGlass" />
+  <Association Identifier=".raf" ProgId="ImageGlass.AssocFile.RAF" ApplicationName="ImageGlass" />
+  <Association Identifier=".rar" ProgId="Applications\7zFM.exe" ApplicationName="7-Zip File Manager" />
+  <Association Identifier=".raw" ProgId="ImageGlass.AssocFile.RAW" ApplicationName="ImageGlass" />
+  <Association Identifier=".rw2" ProgId="ImageGlass.AssocFile.RW2" ApplicationName="ImageGlass" />
+  <Association Identifier=".rwl" ProgId="ImageGlass.AssocFile.RWL" ApplicationName="ImageGlass" />
+  <Association Identifier=".sr2" ProgId="ImageGlass.AssocFile.SR2" ApplicationName="ImageGlass" />
+  <Association Identifier=".srw" ProgId="ImageGlass.AssocFile.SRW" ApplicationName="ImageGlass" />
+  <Association Identifier=".tif" ProgId="ImageGlass.AssocFile.TIF" ApplicationName="ImageGlass" />
+  <Association Identifier=".tiff" ProgId="ImageGlass.AssocFile.TIFF" ApplicationName="ImageGlass" />
+  <Association Identifier=".txt" ProgId="txtfile" ApplicationName="Notepad" />
+  <Association Identifier=".url" ProgId="IE.AssocFile.URL" ApplicationName="Internet Browser" />
+  <Association Identifier=".website" ProgId="IE.AssocFile.WEBSITE" ApplicationName="Internet Explorer" />
+  <Association Identifier=".wmf" ProgId="ImageGlass.AssocFile.WMF" ApplicationName="ImageGlass" />
+  <Association Identifier=".xbm" ProgId="ImageGlass.AssocFile.XBM" ApplicationName="ImageGlass" />
+  <Association Identifier=".xpm" ProgId="ImageGlass.AssocFile.XPM" ApplicationName="ImageGlass" />
+  <Association Identifier=".xps" ProgId="Windows.XPSReachViewer" ApplicationName="XPS Viewer" />
+  <Association Identifier=".zip" ProgId="Applications\7zFM.exe" ApplicationName="7-Zip File Manager" />
+  <Association Identifier="http" ProgId="FirefoxURL-308046B0AF4A39CB" ApplicationName="Firefox" />
+  <Association Identifier="https" ProgId="FirefoxURL-308046B0AF4A39CB" ApplicationName="Firefox" />
+  <Association Identifier="mailto" ProgId="Thunderbird.Url.mailto" ApplicationName="Thunderbird" />
+</DefaultAssociations>

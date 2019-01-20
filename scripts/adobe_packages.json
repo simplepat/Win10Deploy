@@ -1,0 +1,51 @@
+[
+	{
+		"name": "photoshop",
+		"version": "cc2018",
+		"url": "http://prdl-download.adobe.com/Photoshop/66A1D1E00DE44601B041A631261EC584/1507846032938/AdobePhotoshop19-mul_x64.zip",
+		"wizardtitle": "Photoshop CC 2018 Installer",
+		"checkpath": "C:\\Program Files\\Adobe\\Adobe Photoshop CC\\Photoshop.exe"
+	},
+	{
+		"name": "lightroom",
+		"version": "cc2018",
+		"url": "http://prdl-download.adobe.com/LightroomCC/B739B5BBE924450E85E3CCA3F4E58DF2/1507817913973/LRCC_1.0_20170919-1412-ccb76bd_win64_Release_ESD.zip",
+		"wizardtitle": "Lightroom CC 2018 Installer",
+		"checkpath": "C:\\Program Files\\Adobe\\Adobe Lightroom CC\\Lightroom.exe"
+	},
+	{
+		"name": "lightroomclassic",
+		"version": "cc2018",
+		"url": "http://prdl-download.adobe.com/Lightroom/C92BB55D87554077A61FB4B39229DF85/1509474343363/LR_7.0.1_1142117_win64_Release_ESD.zip",
+		"wizardtitle": "Photoshop CC 2018 Installer",
+		"checkpath": "C:\\Program Files\\Adobe\\Adobe Lightroom Classic CC\\Lightroom.exe"
+	},
+	{
+		"name": "illustrator",
+		"version": "cc2018",
+		"url": "http://prdl-download.adobe.com/Illustrator/C1208DBFE1D04A81A21C62CDF6A96AC6/1509968804429/AdobeIllustrator22_HD_win64.zip",
+		"wizardtitle": "Photoshop CC 2018 Installer",
+		"checkpath": "C:\\Program Files\\Adobe\\Adobe Illustrator CC\\Illustrator.exe"
+	},
+	{
+		"name": "dreamweaver",
+		"version": "cc2018",
+		"url": "http://prdl-download.adobe.com/Dreamweaver/0D145873957D4FEF849999B43723DA1E/1509107886842/Dreamweaver%20CC%202018%20Set-up.exe",
+		"wizardtitle": "Photoshop CC 2018 Installer",
+		"checkpath": "C:\\Program Files\\Adobe\\Adobe Dreamweaver CC\\Dreamweaver.exe"
+	},
+	{
+		"name": "premierepro",
+		"version": "cc2018",
+		"url": "http://prdl-download.adobe.com/Premiere%20Pro/50AAFADD563D4691896967A6AB1D47F8/1507826592638/AdobePremierePro12AllTrial.zip",
+		"wizardtitle": "Premiere Pro CC 2018 Installer",
+		"checkpath": "C:\\Program Files\\Adobe\\Premiere Pro CC\\Premiere.exe"
+	},
+	{
+		"name": "aftereffects",
+		"version": "cc2018",
+		"url": "http://prdl-download.adobe.com/After%20Effects/FDF6C521034E467BB283B5837FA042FF/1509090722739/AdobeAfterEffects15AllTrial.zip",
+		"wizardtitle": "Photoshop CC 2018 Installer",
+		"checkpath": "C:\\Program Files\\Adobe\\Adobe After Effects CC\\AfterEffects.exe"
+	}
+]
